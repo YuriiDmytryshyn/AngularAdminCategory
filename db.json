@@ -1,0 +1,26 @@
+{
+  "blogs": [
+    {
+      "title": "asc",
+      "text": "dssd",
+      "image": "https://firebasestorage.googleapis.com/v0/b/july-ca08d.appspot.com/o/images%2FEq_it-na_pizza-margherita_sep2005_sml.jpg?alt=media&token=4eb9d6d8-b2d8-49d1-b0ff-fba6a873c050",
+      "date": "2020-11-22T11:09:23.123Z",
+      "author": "sdfsdf",
+      "id": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "drinks"
+    },
+    {
+      "name": "pizza",
+      "id": 2
+    },
+    {
+      "name": "saled",
+      "id": 3
+    }
+  ]
+}
